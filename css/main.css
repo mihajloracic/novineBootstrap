@@ -1,0 +1,38 @@
+.containerRelative{
+  position: relative;
+}
+.rightBottomPosition{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.textJustify{
+  text-align: justify;
+}
+.containerSearch{
+  margin-top: 1%;
+}
+#logosContainer{
+     width: inherit;
+     text-align: center;
+     margin: auto;
+ }
+ .logoImageFooter{
+   height: 35px;
+   display: inline-block;
+ }
+ .textCenter{
+   text-align: center;
+ }
+.aliginCenter{
+  text-align: center;
+}
+.topMargin{
+  margin-top: 8px;
+}
+.clearFix{
+  clear: both;
+}
+.disableElement{
+  visibility: hidden;
+}
